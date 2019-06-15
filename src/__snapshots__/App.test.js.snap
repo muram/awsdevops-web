@@ -24,9 +24,9 @@ ShallowWrapper {
         <h1>
           An Awesome Form on React
         </h1>
-        <h2>
-          Updated by the CI/CD
-        </h2>
+        <h3>
+          v1.0
+        </h3>
         <label
           htmlFor="email"
         >
@@ -75,9 +75,9 @@ ShallowWrapper {
           <h1>
             An Awesome Form on React
           </h1>,
-          <h2>
-            Updated by the CI/CD
-          </h2>,
+          <h3>
+            v1.0
+          </h3>,
           <label
             htmlFor="email"
           >
@@ -134,11 +134,11 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": "Updated by the CI/CD",
+            "children": "v1.0",
           },
           "ref": null,
-          "rendered": "Updated by the CI/CD",
-          "type": "h2",
+          "rendered": "v1.0",
+          "type": "h3",
         },
         Object {
           "instance": null,
@@ -287,9 +287,9 @@ ShallowWrapper {
           <h1>
             An Awesome Form on React
           </h1>
-          <h2>
-            Updated by the CI/CD
-          </h2>
+          <h3>
+            v1.0
+          </h3>
           <label
             htmlFor="email"
           >
@@ -338,9 +338,9 @@ ShallowWrapper {
             <h1>
               An Awesome Form on React
             </h1>,
-            <h2>
-              Updated by the CI/CD
-            </h2>,
+            <h3>
+              v1.0
+            </h3>,
             <label
               htmlFor="email"
             >
@@ -397,11 +397,11 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Updated by the CI/CD",
+              "children": "v1.0",
             },
             "ref": null,
-            "rendered": "Updated by the CI/CD",
-            "type": "h2",
+            "rendered": "v1.0",
+            "type": "h3",
           },
           Object {
             "instance": null,
