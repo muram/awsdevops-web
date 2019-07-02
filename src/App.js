@@ -31,7 +31,8 @@ class App extends Component {
     return (
       <form onSubmit={this.loginUser}>
         <h1>An Awesome Form on React</h1>
-        <h3>v1.0</h3>
+        <h3>v1.1</h3>
+        <h4>Updates to the technologies used in Week#1</h4>
         <label htmlFor="email">
           <span>Email:</span>
           <input onChange={this.inputChange} value={email} id="email" name="email" type="email" />

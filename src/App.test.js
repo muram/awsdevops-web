@@ -10,7 +10,7 @@ describe('<App />', () => {
   describe('Snapshots', () => {
     it('should render the login form if no user is present', () => {
       const rendered = shallow(<App />)
-      expect(rendered).toMatchSnapshot()
+      expect(rendered.debug()).toMatchSnapshot()
     })
   })
 })
